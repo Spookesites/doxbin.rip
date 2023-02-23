@@ -1,0 +1,137 @@
+body {
+	background-color: black;
+	color: white;
+	font-family: "Courier New", Courier, monospace;
+}
+
+.hacker-font {
+	font-family: "Matrix-Regular", monospace;
+}
+
+.hacker-font2 {
+	font-family: "Matrix-Regular", monospace;
+color: red;
+margin-top: 8px;
+
+}
+
+
+.doxxedpeopletext {
+font-family: "Matrix-Regular", monospace;
+ text-align: center;
+  display: block;
+
+
+}
+.doxxedpeopletext2 {
+font-family: "Matrix-Regular", monospace;
+ text-align: left;
+  display: block;
+overflow-x: auto;
+    white-space: pre-wrap;
+    color: #cc3300 !important;
+    line-height: 1.42857143 !important;
+    background-color: #000 !important;
+ text-shadow: 0 0 14px #cc3300 !important;
+    font-family: Courier New, monospace !important;
+    font-size: 15px !important;
+-webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+
+   
+
+}
+.hacker-font3pos {
+	font-family: "Matrix-Regular", monospace;
+color: red;
+    margin: 1.5rem!important;
+border: 1px solid #cc0000 !important;
+    border-radius: 5px !important;
+}
+
+
+.linkxd {
+    color: white;
+   /* text-decoration: none; */
+}
+
+.linkxd:hover {
+    color: white;
+}
+
+.navbar #side-nav{
+  height:100vh;
+  width:0;
+  right:0;
+  top:0;
+  overflow-x:hidden;
+  position:fixed;
+  transition:0.3s;
+}
+.navbar #side-nav a{
+  display:block;
+}
+
+
+}
+.navbar{
+  display:flex;
+  justify-content:space-between;
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform:uppercase;
+  background:#1f1726;
+  padding: 0;
+}
+.navbar #nav-icon{
+  text-align:right;
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform:uppercase;
+  padding:16px 0;
+}
+.navbar #nav-menu{
+  text-align:center;
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform:capitalize;
+  padding:16px 0;
+}
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #33333359;
+}
+
+nav li {
+	float: left;
+}
+
+nav li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+nav li a:hover {
+	background-color: #3c333359;
+}
+
+section {
+	margin: 30px;
+}
+
+h2 {
+	text-align: center;
+}
+
+footer {
+	
+	color: white;
+	text-align: center;
+	
+	position: absolute;
+	bottom: 0;
+	width: 99%;
+}
